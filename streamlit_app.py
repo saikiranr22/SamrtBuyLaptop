@@ -4,7 +4,7 @@ import numpy as np
 
 # import the model
 pipe = pickle.load(open('https://github.com/saikiranr22/SmartBuyLaptop/blob/227eacdced6c0b24ad6f80cd5454669212bfe251/pipe.pkl','rb'))
-df = pickle.load(open('df.pkl','rb'))
+df = pickle.load(open('https://github.com/saikiranr22/SmartBuyLaptop/blob/60426aaa97bcddc92b313c8c13aa18be671a9a5b/df.pkl','rb'))
 
 st.title("Laptop Predictor")
 
