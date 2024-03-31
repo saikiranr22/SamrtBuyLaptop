@@ -1,83 +1,36 @@
-# SmartBuyLaptop Predictor
+# laptoppricepredictor
 
-![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/14531db8-3909-46f0-93ff-7a088208d5fa)
-![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/d45f85a7-0cde-4761-a27e-6ba9e6d13e14)
-![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/e0bd61ad-411e-4969-9fd0-fe578f7fa133)
+[![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
+![Python](https://img.shields.io/badge/python-3.8.3-blue.svg)
+[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
+Engage with my project at:- [Laptop Price Predictor](https://laptoppricepredictor.streamlit.app/)
 
+## 🚀 Brief Idea
+🎯 Our advanced machine learning model, powered by a Random Forest Classifier, provides insightful predictions to help you make informed decisions when purchasing a laptop.
 
-The Smart Buy Laptop project is a machine learning endeavor designed to assist consumers and e-commerce platforms in making informed purchasing decisions by predicting the ideal laptop purchase based on various specifications and features. Through accurate price estimates and insightful recommendations, this project aims to optimize the laptop buying process for users and enhance competitiveness for online retailers.
+Whether you're a tech enthusiast, a budget-conscious student, or a professional in search of the perfect laptop, our application is here to assist you. By leveraging the power of data and sophisticated algorithms, we have created a user-friendly platform that takes the guesswork out of laptop pricing. 💻💡
 
-Objective
-The primary objective of the Smart Buy Laptop project is to leverage machine learning techniques to predict the best laptop purchase based on user preferences and budget constraints. By analyzing a range of laptop specifications and features, such as processor type, RAM size, storage capacity, display resolution, and graphics card, the model aims to recommend laptops that offer the best value for money.
+With Laptop Price Predictor, you can easily input the specifications of the laptop you're interested in, such as brand, processor, RAM, storage, graphics card, and more. Our model swiftly processes this information and generates an accurate price prediction tailored to your desired laptop configuration. 📊💰
 
-Features
-Data Collection: The project collects data from diverse sources, including online retailers, manufacturer websites, and publicly available datasets, to build a comprehensive database of laptop specifications, prices, and user reviews.
+Our goal is to help you stay ahead of the curve while saving both time and money. Laptop Price Predictor's cutting-edge technology provides precise and reliable laptop price predictions. Start exploring our application today and make well-informed decisions for your next laptop purchase. 🚀🔮
 
-Data Preprocessing: The collected data undergoes preprocessing to handle missing values, normalize features, and encode categorical variables, ensuring compatibility with machine learning algorithms.
-
-Feature Selection: Relevant features are selected based on their significance in predicting the best laptop purchase. Feature engineering techniques may also be applied to create new meaningful features.
-
-Model Training: Machine learning models, such as classification algorithms (e.g., decision trees, random forests, support vector machines), are trained on the preprocessed data to learn the relationship between laptop features and user preferences.
-
-Recommendation System: The trained models generate personalized recommendations based on user input, including desired specifications and budget constraints, to suggest the most suitable laptops for purchase.
-
-Model Evaluation: The performance of the recommendation system is evaluated using various metrics, such as accuracy, precision, recall, and F1 score, to assess its effectiveness in making smart laptop recommendations.
-
-Deployment: Once a satisfactory recommendation system is developed, it can be deployed as a web application, API, or integrated into e-commerce platforms to provide real-time recommendations for smart laptop purchases.
-
-Continuous Improvement: The project undergoes continuous improvement through the incorporation of new data, fine-tuning of models, and exploration of advanced machine learning techniques to enhance recommendation accuracy and user satisfaction.
-
-Usage
-To utilize the Smart Buy Laptop system, follow these steps:
-
-Data Collection: Gather data on laptop specifications, prices, and user reviews from various sources.
-
-Data Preprocessing: Preprocess the collected data to handle missing values, normalize features, and encode categorical variables.
-
-Feature Selection: Select relevant features based on their significance in predicting the best laptop purchase. Consider applying feature engineering techniques for creating new meaningful features.
-
-Model Training: Train machine learning models on the preprocessed data using classification algorithms.
-
-Recommendation System: Develop a recommendation system that generates personalized laptop recommendations based on user input, including desired specifications and budget constraints.
-
-Model Evaluation: Evaluate the performance of the recommendation system using appropriate metrics to assess its effectiveness in making smart laptop recommendations.
-
-Deployment: Deploy the recommendation system as a web application, API, or integrate it into e-commerce platforms to provide real-time recommendations for smart laptop purchases.
-
-Contributors
-Your Name
-Saikiran Reddy
-Harsh Waghmare
-License
-This project is licensed under the MIT License.
-
-Acknowledgments
-We would like to acknowledge the following resources and individuals for their contributions and inspiration to this project:
-
-Data Science Handbook
-Machine Learning Mastery
-Scikit-learn Documentation
-GitHub - Awesome Machine Learning
-Support
-For any questions, feedback, or issues regarding the Smart Buy Laptop project, please contact saikiranrce120@gmail.com
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Please note that the predictions generated by our model are based on historical data and statistical analysis. Prices may vary in real-time due to market dynamics and other factors. ⚠️
 
 
- 
+## ✨Tech Stack
 
- 
+**Scripting Language:** Python
 
- 
+**backend:** Streamlit
+
+## 🔴 Video tutorial!
+Project demo :- https://youtu.be/CyXJdFlbT_M
+
+<img src="https://github.com/AdityaWadkar/laptoppricepredictor/assets/67093170/461ec525-a969-4189-9599-e622946815c9">
 
 
+## Authors
+
+- [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
