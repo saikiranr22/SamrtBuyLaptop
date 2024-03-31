@@ -1,5 +1,11 @@
 # SmartBuyLaptop Predictor
 
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/14531db8-3909-46f0-93ff-7a088208d5fa)
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/d45f85a7-0cde-4761-a27e-6ba9e6d13e14)
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/e0bd61ad-411e-4969-9fd0-fe578f7fa133)
+
+
+
 The Smart Buy Laptop project is a machine learning endeavor designed to assist consumers and e-commerce platforms in making informed purchasing decisions by predicting the ideal laptop purchase based on various specifications and features. Through accurate price estimates and insightful recommendations, this project aims to optimize the laptop buying process for users and enhance competitiveness for online retailers.
 
 Objective
