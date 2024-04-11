@@ -4,7 +4,6 @@ Demo of our Project :- (https://smartbuylaptop-mvjez2s8niuxsdgylfuups.streamlit.
 
 Roll Number	Name
 120A1022	Saikiran Reddy
-120A1023	Harsh Waghmare
 
 About Project
 The Smart Buy Laptop  is a machine learning project designed to predict the price of laptops based on their specifications and features. Our project aims to assist both consumers and e-commerce platforms by providing accurate price estimates for laptops, enabling informed purchasing decisions and helping online retailers set competitive prices.    
