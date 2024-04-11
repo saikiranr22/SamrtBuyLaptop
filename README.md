@@ -1,5 +1,26 @@
 Smart Buy Laptop
 
+Demo of our Project :- (https://smartbuylaptop-mvjez2s8niuxsdgylfuups.streamlit.app/)
+
+Roll Number	Name
+120A1022	Saikiran Reddy
+120A1023	Harsh Waghmare
+
+About Project
+The Smart Buy Laptop  is a machine learning project designed to predict the price of laptops based on their specifications and features. Our project aims to assist both consumers and e-commerce platforms by providing accurate price estimates for laptops, enabling informed purchasing decisions and helping online retailers set competitive prices.    
+
+ ![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/cc004746-8b37-4def-89c8-4db17295bc00)
+ ![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/1236e9e4-4bb1-4aa2-825f-f1145b12fed6)
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/de483f92-8d08-423d-9bef-ea9d6c3219c7)
+
+ ![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/6ec4ce60-74bb-416a-8f90-b85f8d1811b9)
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/18e331a7-e52a-4abc-9016-11a900593a6f)
+
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/19dcf54a-fe15-43df-a562-3f2ed799905c)
+![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/a15add21-7fee-476a-b46d-30b11fe196b4)
+ 
+ ![image](https://github.com/saikiranr22/SmartBuyLaptop/assets/147222335/f0e51718-829e-4f8a-81ea-65185f280a26)
+
 The Smart Buy Laptop project is a machine learning endeavor designed to assist consumers and e-commerce platforms in making informed purchasing decisions by predicting the ideal laptop purchase based on various specifications and features. Through accurate price estimates and insightful recommendations, this project aims to optimize the laptop buying process for users and enhance competitiveness for online retailers.
 
 Objective
