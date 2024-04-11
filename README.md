@@ -1,6 +1,5 @@
 Smart Buy Laptop
 
-
 The Smart Buy Laptop project is a machine learning endeavor designed to assist consumers and e-commerce platforms in making informed purchasing decisions by predicting the ideal laptop purchase based on various specifications and features. Through accurate price estimates and insightful recommendations, this project aims to optimize the laptop buying process for users and enhance competitiveness for online retailers.
 
 Objective
